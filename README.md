@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul kumar jha
 - 👀 I’m interested in playing chess, basketball, rifle shooting
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate with life
+- 💞️ I’m looking to collaborate with defense forces
 - 📫 rahuljha190802@gmail.com
 
 <!---
