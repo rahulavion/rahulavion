@@ -34,7 +34,7 @@ To pursue a gratifying career in software development and automation testing, wi
 <p align="center">
 	<a href="mailto:rahuljha190802@gmail.com"><img img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/rahul-kumar-jha-a1627a210/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/rahulavion"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"/></a>
+	<a href="https://rahulavion.github.io/portfolio-rahuljha/"><img src="https://img.shields.io/badge/Portfolio" alt="Portfolio"/></a>
 <!-- 	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a> -->
 </p>
 
