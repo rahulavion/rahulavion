@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm RAHUL KUMAR JHA!
+Hi, I'm RAHUL JHA!
 	<a href="https://github.com/rahulavion" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
@@ -15,18 +15,18 @@ Hi, I'm RAHUL KUMAR JHA!
 <br/>
 <p align="center">
 	<a href="https://github.com/rahulavion">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;App+Developer;Active%20Programmer;AI%20|%20ML%20Enthusiast;%20Team%20Player%20|NCC%20Cadet&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;Quality+Engineer;Automation+Engineer;Software+Engineer+In+Test;Active%20Programmer;AI+Enthusiast;%20Team%20Player%20|NCC%20Cadet&center=true&width=380&height=45">
 	</a>
 </p>
 <p>
-Aspiring App developer with a proper knowledge and hands-on with Flutter and Android Stdio tools. I am Interested in Machine Learning Projects. I like taking part in Coding contests and learnt C,C++,Java,Python in leisure time. I am skilled Basketball player. I am a NCC cadet and I have completed 100 days of Training with army men.
+To pursue a gratifying career in software development and automation testing, with an eagerness to learn more and automate more in real world problems, seeking job in challenging environment which my skills to explore and adapt in different fields and realize my potential where I get an opportunity for continuous learning. I am skilled Basketball player. I am a NCC cadet and I have completed 100 days of Training with army men.
 </p>
 <hr>
 <pre>
-- 🔭Aspiring Computer Science Engineer and App Developer
-- 🌱Student at Bannari Amman Institute of Technology Erode and Indian Institute of Technology,Sathyamangalam
-- 🤺Check out my Portfolio https://rahulkumarjhacs02.wixsite.com/rahuljha
-- 💬I could answer your questions on ML, Python, C, CPP, Java.
+- 🔭Aspiring Computer Science Engineer and Software Engineer in Test
+- 🌱Student at Bannari Amman Institute of Technology,Sathyamangalam, Erode
+- 🤺Check out my Portfolio https://rahulavion.github.io/portfolio-rahuljha/
+- 💬I could answer your questions on Python, Java, Automation, Functional & Non Functional Testing.
 </pre>
 </hr>
 
@@ -62,23 +62,23 @@ Aspiring App developer with a proper knowledge and hands-on with Flutter and And
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="https://github.com/NITHESH2303"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="https://github.com/rahulavion"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
 
 <p>
-    <a href="https://github.com/NITHESH2303"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
-    <a href="https://github.com/NITHESH2303"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="https://github.com/NITHESH2303"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="https://github.com/NITHESH2303"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="https://github.com/NITHESH2303"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"></a>
-    <a href="https://github.com/NITHESH2303"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white"></a>
-    <a href="https://github.com/NITHESH2303"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="https://github.com/NITHESH2303"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://github.com/rahulavion"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a>
+    <a href="https://github.com/rahulavion"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="https://github.com/rahulavion"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+    <a href="https://github.com/rahulavion"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="https://github.com/rahulavion"><img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white"></a>
+    <a href="https://github.com/rahulavion"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white"></a>
+    <a href="https://github.com/rahulavion"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="https://github.com/rahulavion"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 </br>
--->
+
 
 ## <a href="https://github.com/rahulavion"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 <br/>
@@ -97,7 +97,7 @@ Aspiring App developer with a proper knowledge and hands-on with Flutter and And
 <br/>
 
 <p align="center">
-	<a href="https://github.com/NITHESH2303">
+	<a href="https://github.com/rahulavion">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulavion&langs_count=8&layout=compact&theme=blue-green" alt="Rahul Jha">
 	</a>
 	<br/>
@@ -105,6 +105,7 @@ Aspiring App developer with a proper knowledge and hands-on with Flutter and And
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 <br/>
+-->
 
 ## <a href="https://github.com/rahulavion"><img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/leetcode_logo_icon_145113.png" width="30"></a> LeetCode Stats
 <p align="center">
@@ -124,22 +125,4 @@ Aspiring App developer with a proper knowledge and hands-on with Flutter and And
 
 [RAHUL JHA](https://github.com/rahulavion)
 
-
-
-
-
-<!--
-**RAHUL JHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
